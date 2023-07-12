@@ -1,15 +1,14 @@
 # mac-scroll-change
 A simple script to toggle between scroll modes on mac when connecting to a docking station and your mouse becomes inverted. 
 
-
 ## Allow Running of the Application
 1. When you launch the application you may get this error <br>
 
-<img width="300" alt="can't installed" src="https://github.com/tobymoore164/mac-scroll-change/assets/5429520/ad41ee9e-680e-4c94-8113-4bd427b4860c" > <br>
+<img width="300" alt="can't installed" src="https://github.com/tobymoore164/mac-scroll-change/assets/5429520/a87f6f22-bd5b-4d3d-aa74-ba87020d1c03" > <br>
 
 2. To resolve, navigate to `System Preferences -> Security & Privacy -> General` and select `Open Anyway`
 
-<img width="600" alt="can't installed" src="https://github.com/tobymoore164/mac-scroll-change/assets/5429520/373cffdd-6563-4e2a-a69b-895177fee344" > <br>
+<img width="600" alt="can't installed" src="https://github.com/tobymoore164/mac-scroll-change/assets/5429520/ace09f91-f21b-4998-806a-39a89fc84471" > <br>
 
 ## Allow Script Execution
 1. Double click the application
@@ -23,3 +22,4 @@ A simple script to toggle between scroll modes on mac when connecting to a docki
 You should now be able to double click the application to run and swap the trackpad!
 
 You can also drag the application to your dock, desktop, or search with spotlight `Space + Cmd` to run it more easily!
+
